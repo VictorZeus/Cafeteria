@@ -22,7 +22,7 @@
     body{
         background: linear-gradient(0deg, #0E1C26 -6.72%, #876445 -6.72%, #F4DFBA 100%);
     }
-    
+
     html{
         font-size: 62.5%;
         overflow-x: hidden;
@@ -239,7 +239,7 @@
 
 .home .container .container-button a:hover{
     background: #876445;
-    color: #fff:
+    color: #fff;
 }
 
 
